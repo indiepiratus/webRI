@@ -1,0 +1,130 @@
+<section id="projects">
+			<div class="container projects-fix">
+				<div class="row">
+					<div class="span12">
+						<div class="title center-title">Bagaimana <span class="color-text">mewujudkan</span> Angkot Day</div>
+						<hr>
+					</div>
+				</div>
+			</div>
+			<div class="page">
+				<div class="container">
+					<div class="row">
+						<div class="span12">
+							<div class="project-intro">
+								<h3>Kutcher Studio<br />Responsive parallax template</h3>
+								<div class="project-description">
+									<p>Kutcher Studio is a grid-based single page responsive template for photostudio, creative or digital agency, freelancers, business. It is a portfolio for showcasing your work with fullscreen slider and parallax scrolling effect.</p>
+								</div>
+							</div>
+							<!-- Start Slider -->
+							<div class="laptop-slider">
+								<div class="flexslider">
+									<ul class="slides">
+										<li><img src="img/sliders/laptop/laptop1.jpg" alt=""></li>
+										<li><img src="img/sliders/laptop/laptop2.jpg" alt=""></li>
+									</ul>
+								</div>
+							</div>
+							<!-- End Slider -->
+							<ul class="buy-section">
+								<li><a class="btn" href="http://themeforest.net/item/kutcher-studio-responsive-parallax-template/3431507">Buy it now</a></li>
+								<li>Just $15</li>
+							</ul>
+							<!-- Start Slider -->
+							<div class="laptop-slider">
+								<div class="flexslider">
+									<ul class="slides">
+										<li><img src="img/sliders/laptop/laptop1.jpg" alt=""></li>
+										<li><img src="img/sliders/laptop/laptop2.jpg" alt=""></li>
+									</ul>
+								</div>
+							</div>
+							<!-- End Slider -->
+							<!-- Start Slider -->
+							<div class="laptop-slider">
+								<div class="flexslider">
+									<ul class="slides">
+										<li><img src="img/sliders/laptop/laptop1.jpg" alt=""></li>
+										<li><img src="img/sliders/laptop/laptop2.jpg" alt=""></li>
+									</ul>
+								</div>
+							</div>
+							<!-- End Slider -->
+							<div class="row">
+								<div class="span3">
+									<h5>We are creative</h5>
+									<p>Lorem ipsum dolor sit amet, adipiscing elit. Maecenas neque diam, luctus at laoreet in, auctor ut tellus. Etiam enim lacus, ornare et tempor et, rhoncus sem. Duis tincidunt erat quam. Etiam placerat sapien elit.</p>
+									<hr class="gray margin20 visible-phone">
+								</div>
+								<div class="span3">
+									<h5>We are awesome</h5>
+									<p>Praesent rhoncus nunc vitae metus condimentum viverra. Fusce sed est orci, vel condimentum felis. Suspendisse ullamcorper vulputate sagittis. Maecenas neque diam, luctus at laoreet in, auctor ut tellus.</p>
+									<hr class="gray margin20 visible-phone">
+								</div>
+								<div class="span3">
+									<h5>We are innovation</h5>
+									<p>Duis tincidunt erat quam. Etiam placerat sapien elit. Sed augue lorem, dignissim eget bibendum vitae, scelerisque eget justo. Praesent rhoncus nunc vitae metus condimentum viverra.</p>
+									<hr class="gray margin20 visible-phone">
+								</div>
+								<div class="span3">
+									<h5>We are the best</h5>
+									<p>Lorem ipsum dolor sit amet, adipiscing elit. Maecenas neque diam, luctus at laoreet in, auctor ut tellus. Etiam enim lacus, ornare et tempor et, rhoncus sem. Fusce sed est orci, vel condimentum felis.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="page page-gray">
+				<div class="container">
+					<div class="row">
+						<div class="span12">
+							<div class="project-intro">
+								<h3>Rudermann<br />Responsive Retina Ready Template</h3>
+								<div class="project-description">
+									<p>Rudermann is the awesome pixel-perfect responsive HTML template based on Twitter Bootstrap Grid System. It is optimized for Retina Displays (used in iPhone, iPad, iPod Touch and MacBook Pro Retina). Best for the digital or creative agency, design studio, web-development company or freelancer. Template is provides a powerful way to showcase your work.</p>
+								</div>
+							</div>
+							<!-- Start Slider -->
+							<div class="display-slider">
+								<div class="flexslider">
+									<ul class="slides">
+										<li><img src="img/sliders/display/display1.jpg" alt=""></li>
+										<li><img src="img/sliders/display/display2.jpg" alt=""></li>
+										<li><img src="img/sliders/display/display3.jpg" alt=""></li>
+									</ul>
+								</div>
+							</div>
+							<!-- End Slider -->
+							<ul class="buy-section">
+								<li><a class="btn" href="http://themeforest.net/item/rudermann-responsive-retina-ready-html-template/3680492">Buy it now</a></li>
+								<li>Just $17</li>
+							</ul>
+							<div class="row">
+								<div class="span3">
+									<h5>We are creative</h5>
+									<p>Lorem ipsum dolor sit amet, adipiscing elit. Maecenas neque diam, luctus at laoreet in, auctor ut tellus. Etiam enim lacus, ornare et tempor et, rhoncus sem. Duis tincidunt erat quam. Etiam placerat sapien elit.</p>
+									<hr class="gray margin20 visible-phone">
+								</div>
+								<div class="span3">
+									<h5>We are awesome</h5>
+									<p>Praesent rhoncus nunc vitae metus condimentum viverra. Fusce sed est orci, vel condimentum felis. Suspendisse ullamcorper vulputate sagittis. Maecenas neque diam, luctus at laoreet in, auctor ut tellus.</p>
+									<hr class="gray margin20 visible-phone">
+								</div>
+								<div class="span3">
+									<h5>We are innovation</h5>
+									<p>Duis tincidunt erat quam. Etiam placerat sapien elit. Sed augue lorem, dignissim eget bibendum vitae, scelerisque eget justo. Praesent rhoncus nunc vitae metus condimentum viverra.</p>
+									<hr class="gray margin20 visible-phone">
+								</div>
+								<div class="span3">
+									<h5>We are the best</h5>
+									<p>Lorem ipsum dolor sit amet, adipiscing elit. Maecenas neque diam, luctus at laoreet in, auctor ut tellus. Etiam enim lacus, ornare et tempor et, rhoncus sem. Fusce sed est orci, vel condimentum felis.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Projects Page -->
