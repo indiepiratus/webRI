@@ -443,6 +443,14 @@
 		display: block;
 		font-weight: 700;
 		margin-top: 23px;
+		margin-bottom: 16px;
+	}
+
+	#twitter-parallax .tweet-date {
+		color: #fff;
+	}
+	.tweet_list li {
+		display: block;
 	}
 	
 	#twitter-parallax a {
